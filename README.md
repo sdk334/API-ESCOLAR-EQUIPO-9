@@ -198,20 +198,3 @@ Deberías ver la pantalla de inicio de sesión.
 | Error de PHP | Librería o extensión faltante | Revisa `Apache > Logs > error.log` en el panel de XAMPP |
 
 ---
-
-## Documentación Adicional
-
-El repositorio incluye un **Manual de Usuario** en formato PDF (`manual de usuario.pdf`) con guías detalladas para cada módulo del sistema, capturas de pantalla y descripción completa de la interfaz.
-
----
-
-## Autor / Equipo
-
-| Rol | Nombre |
-|-----|--------|
-| Equipo | Equipo 9 |
-| Desarrollador | Paredes Martínez Jonathan Uriel |
-
-## Licencia
-
-Proyecto académico de uso educativo. © 2026 SchoolHub – Sistema de Gestión Escolar.
